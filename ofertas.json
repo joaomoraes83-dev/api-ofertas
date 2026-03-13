@@ -1,20 +1,13 @@
 [
   {
     "id": 1,
-    "nome": "Velotax",
-    "detalhes": "Empréstimo Pessoal.",
-    "url_imagem": "https://actionpay.com.br/st/logo/17/65/97/17659799838514.png",
-    "link_afiliado": "https://apretailer.com.br/click/69b234f02bfa81037e5f77b4/188130/358134/subaccount"
-  },
-  {
-    "id": 2,
     "nome": "Nomad",
     "detalhes": "Conta em dólar e cartão internacional sem taxas.",
     "url_imagem": "https://actionpay.com.br/st/logo/17/71/88/17718862660696.png",
     "link_afiliado": "https://apretailer.com.br/click/69b1e9bd2bfa8150197b6882/188339/358134/subaccount"
   },
   {
-    "id": 3,
+    "id": 2,
     "nome": "Santander",
     "detalhes": "Várias opções de cartões com diversos benefícios.",
     "url_imagem": "https://actionpay.com.br/st/logo/17/61/57/17615715475461.png",
