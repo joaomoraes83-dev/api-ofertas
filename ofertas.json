@@ -22,30 +22,30 @@
   },
   {
     "id": 4,
-    "nome": "Cartão Carrefour",
-    "detalhes": "Cartão de crédito com benefícios exclusivos e condições especiais nas lojas Carrefour.",
-    "url_imagem": "https://actionpay.com.br/st/logo/17/49/04/17490420337132.png",
-    "link_afiliado": "https://apretailer.com.br/click/69b8a41e2bfa81355031c902/186823/358134/subaccount"
-  },
-  {
-    "id": 5,
     "nome": "Santander PJ",
     "detalhes": "Conta digital para empresas com serviços bancários completos e abertura online.",
     "url_imagem": "https://actionpay.com.br/st/logo/17/62/34/1762349488942.png",
     "link_afiliado": "https://apretailer.com.br/click/69b8a41e2bfa81354a365f22/187773/358134/subaccount"
   },
   {
-    "id": 6,
+    "id": 5,
     "nome": "Mastercard Vale Bônus",
     "detalhes": "Programa de benefícios que oferece recompensas e vantagens em compras.",
     "url_imagem": "https://actionpay.com.br/st/logo/17/70/30/17703034692963.png",
     "link_afiliado": "https://apretailer.com.br/click/69b8a41d2bfa810a6408f5f4/188275/358134/subaccount"
   },
   {
-    "id": 7,
+    "id": 6,
     "nome": "BTG Pactual",
     "detalhes": "Conta digital com soluções financeiras e investimentos para pessoas físicas.",
     "url_imagem": "https://actionpay.com.br/st/logo/17/73/23/17732342166363.png",
     "link_afiliado": "https://apretailer.com.br/click/69b8a41d2bfa812f28793882/188400/358134/subaccount"
+  },
+    {
+    "id": 7,
+    "nome": "HIPER CASH - Empréstimo Pessoal",
+    "detalhes": "Saia do aperto!",
+    "url_imagem": "https://actionpay.com.br/st/logo/16/87/20/16872043238503.png",
+    "link_afiliado": "https://apretailer.com.br/click/69f5f71b2bfa8178760b1442/182687/358134/subaccount"
   }
 ]
